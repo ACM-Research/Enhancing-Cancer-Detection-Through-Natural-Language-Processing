@@ -3,9 +3,11 @@
 Rishabh Medhi, Dravin Raj, Joshua Valiaveedu, Sachi Hansalia, Ela Guo  
 Lead: Philip Lee Supervisor: Dr. Berrak Sisman
 
-POSTER
+# POSTER
+<p align = "center"><img src = [Cancer_Detection_6-1.pdf](https://github.com/ACM-Research/Enhancing-Cancer-Detection-Through-Natural-Language-Processing/files/13541880/Cancer_Detection_6-1.pdf)></p> 
 
 # Introduction
+
 
   Cancer, one of the world's leading causes of death, has been the subject of study in many different fields. If detected early, before progression into its fatal stages, cancer is treatable. The current issue is detecting cancer in its early stages. We aim to detect these early signs of cancer by implementing computational tools and semantics. 
   The past decade has seen leaps in machine learning research, especially with the design of the Transformer Large Language Model (LLM), developed by Google Brain researchers. This model can be utilized for Natural Language Processing (NLP), which has a number of applications such as translation and text generation.\(^2\) Using the RoBERTa model, we created a model to detect cancer in text data based on the ten major hallmarks of cancer. ​ 
