@@ -4,13 +4,14 @@ Rishabh Medhi, Dravin Raj, Joshua Valiaveedu, Sachi Hansalia, Ela Guo
 Lead: Philip Lee Supervisor: Dr. Berrak Sisman
 
 # POSTER
-<p align = "center"><img src = [Cancer_Detection_6-1.pdf](https://github.com/ACM-Research/Enhancing-Cancer-Detection-Through-Natural-Language-Processing/files/13541880/Cancer_Detection_6-1.pdf)></p> 
+<p align = "center"><img src = ![Cancer_Detection_6-2-1](https://github.com/ACM-Research/Enhancing-Cancer-Detection-Through-Natural-Language-Processing/assets/74793573/e5a6aa55-7509-4ba9-aae8-341dc7ccc036)
+></p> 
 
 # Introduction
 
 
   Cancer, one of the world's leading causes of death, has been the subject of study in many different fields. If detected early, before progression into its fatal stages, cancer is treatable. The current issue is detecting cancer in its early stages. We aim to detect these early signs of cancer by implementing computational tools and semantics. 
-  The past decade has seen leaps in machine learning research, especially with the design of the Transformer Large Language Model (LLM), developed by Google Brain researchers. This model can be utilized for Natural Language Processing (NLP), which has a number of applications such as translation and text generation.\(^2\) Using the RoBERTa model, we created a model to detect cancer in text data based on the ten major hallmarks of cancer. ​ 
+  The past decade has seen leaps in machine learning research, especially with the design of the Transformer Large Language Model (LLM), developed by Google Brain researchers. This model can be utilized for Natural Language Processing (NLP), which has several applications such as translation and text generation.\(^2\) Using the RoBERTa model, we created a model to detect cancer in text data based on the ten major hallmarks of cancer. ​ 
 
 # Purpose
 
@@ -18,7 +19,7 @@ We sought to evaluate the efficiency of implementing an LLM, represented by RoBE
 
 # Dataset
 
-The "Hallmarks of Cancer" is a dataset from \textit{Automatic semantic classification of scientific literature according to the hallmarks of cancer}. It consists of extracts from approximately 1500 research paper abstracts from various fields such as molecular biology, public health, and clinical medicine. These extracts are labeled with numbers according to one of the hallmarks they present for the purpose of promoting research into ways to improve healthcare through AI/ML techniques.\(^3\)  To prepare the dataset for training, we cleaned and resampled from the set as follows: 
+The "Hallmarks of Cancer" is a dataset from \textit{Automatic semantic classification of scientific literature according to the hallmarks of cancer}. It consists of extracts from approximately 1500 research paper abstracts from various fields such as molecular biology, public health, and clinical medicine. These extracts are labeled with numbers according to one of the hallmarks they present to promote research into ways to improve healthcare through AI/ML techniques.\(^3\)  To prepare the dataset for training, we cleaned and resampled from the set as follows: 
   - The training set for our model consisted of over 12k entries
   - There was an overrepresentation of the label  hallmark 7, "Genome instability & mutation (GI)"
   - To prevent bias towards the majority class, we randomly sampled 1000 of those entries to train the model
