@@ -4,8 +4,7 @@ Rishabh Medhi, Dravin Raj, Joshua Valiaveedu, Sachi Hansalia, Ela Guo
 Lead: Philip Lee Supervisor: Dr. Berrak Sisman
 
 # POSTER
-<p align = "center"><img src = ![Cancer_Detection_6-2-1](https://github.com/ACM-Research/Enhancing-Cancer-Detection-Through-Natural-Language-Processing/assets/74793573/e5a6aa55-7509-4ba9-aae8-341dc7ccc036)
-></p> 
+![Cancer_Detection_6-2-1](https://github.com/ACM-Research/Enhancing-Cancer-Detection-Through-Natural-Language-Processing/assets/74793573/e5a6aa55-7509-4ba9-aae8-341dc7ccc036)
 
 # Introduction
 
