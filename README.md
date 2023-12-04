@@ -62,3 +62,10 @@ We used the following metrics to measure our model's performance.
 3. Simon Baker, Ilona Silins, Yufan Guo, Imran Ali, Johan Högberg, Ulla Stenius, Anna Korhonen. _Automatic semantic classification of scientific literature according to the hallmarks of cancer_, Bioinformatics, Volume 32, Issue 3, February 2016, Pages 432–440, https://doi.org/10.1093/bioinformatics/btv585
 4. Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L. \& Stoyanov, V. (2019)._RoBERTa: A Robustly Optimized BERT Pretraining Approach_ (arxiv:1907.11692). arXiv.
 5. Iannantuono, G. M., Bracken-Clarke, D., Floudas, C. S., Roselli, M., Gulley, J. L., & Karzai, F. (2023). _Applications of large language models in cancer care: current evidence and future perspectives._ Frontiers in oncology, 13, 1268915. https://doi.org/10.3389/fonc.2023.1268915
+
+# Demo
+
+https://github.com/ACM-Research/Enhancing-Cancer-Detection-Through-Natural-Language-Processing/assets/85974746/0302a9c2-e9a5-4a7d-8ac8-400d1b1c3f2f
+
+
+
